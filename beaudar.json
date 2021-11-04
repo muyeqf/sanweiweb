@@ -1,3 +1,6 @@
 {
-  "origins": ["https://sanwei.io"]
+  "origins": [
+    "https://www.sanwei.io",
+    "https://sanwei.io"
+  ]
 }
